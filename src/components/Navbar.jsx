@@ -61,7 +61,7 @@ function Navbar() {
                       href="/creative-learning"
                       className="block px-4 py-2 text-gray-700 hover:bg-yellow-100"
                     >
-                      🎨 Pembelajaran Kreatif
+                      🎨 Pembelajaran Kreatif dan Inovatif
                     </a>
                   </li>
                   <li>
@@ -78,14 +78,6 @@ function Navbar() {
                       className="block px-4 py-2 text-gray-700 hover:bg-yellow-100"
                     >
                       🤝 Pengembangan Sosial
-                    </a>
-                  </li>
-                  <li>
-                    <a
-                      href="/technology"
-                      className="block px-4 py-2 text-gray-700 hover:bg-yellow-100"
-                    >
-                      💻 Pengenalan Teknologi
                     </a>
                   </li>
                 </ul>
